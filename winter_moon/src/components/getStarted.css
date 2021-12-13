@@ -1,0 +1,62 @@
+/*
+https://colorhunt.co/palette/eeecdaf08a5db83b5e6a2c70
+$first:#EEECDA;
+$second:#6A2C70;
+$third:#F08A5D;
+$fourth:#B83B5E; */
+
+/* https://colorhunt.co/palette/dddddd125d983c8dadf5a962
+ #DDDDDD
+ #125D98
+ #3C8DAD
+ #F5A962
+ */
+
+ /* https://colorhunt.co/palette/00a19dfff8e5ffb344e05d5d
+ #00A19D
+ #FFF8E5
+ #FFB344
+ #E05D5D
+  */
+
+.getStarted-btn-div{
+    margin-top: 35vh;
+}
+.getStarted-btn{
+    border-color: #B83B5E;
+    color: #B83B5E;
+}
+.getStarted-btn:hover{
+    background-color: #B83B5E;
+    color: #EEECDA;
+}
+.getStarted-btn:focus{
+    border-color: #B83B5E;
+    box-shadow: 1px 1px 4px 2px #b83b5f8c;
+}
+
+.customModal{
+    border-radius: 25px !important;
+}
+.customModal-Header{
+    font-weight: bolder;
+}
+.customModal-ForgotPass{
+    color: #B83B5E;
+}
+.customModal-LogInBtn{
+    background-color: #6A2C70;
+    color: white;
+    font-weight: bold;
+    border-radius: 14px;
+    border-color: #EEECDA;
+    min-width: 25vw;
+}
+.customModal-LogInBtn:hover{
+    background-color: white;
+    border-color: #6A2C70;
+}
+.customModal-Input:focus{
+    border-color: #6A2C70;
+    box-shadow: 1px 1px 4px 2px #6a2c7081;
+}

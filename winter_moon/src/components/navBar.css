@@ -1,0 +1,31 @@
+/*
+https://colorhunt.co/palette/eeecdaf08a5db83b5e6a2c70
+$first:#EEECDA;
+$second:#6A2C70;
+$third:#F08A5D;
+$fourth:#B83B5E; */
+
+/* https://colorhunt.co/palette/dddddd125d983c8dadf5a962
+ #DDDDDD
+ #125D98
+ #3C8DAD
+ #F5A962
+ */
+
+ /* https://colorhunt.co/palette/00a19dfff8e5ffb344e05d5d
+ #00A19D
+ #FFF8E5
+ #FFB344
+ #E05D5D
+  */
+
+
+
+.nav-bg-color{
+    background-color: #EEECDA;
+    font-weight: bold;
+};
+
+.nav-item:hover{
+    color: #F08A5D;
+}
